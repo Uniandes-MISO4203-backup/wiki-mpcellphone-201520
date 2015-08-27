@@ -1,4 +1,4 @@
-# wiki-MpCellphone
+# wiki-MarketPhone
 Repositorio en donde se encontrará lo relacionado con la documentación del proyecto mp-cellphone
 
 Integrantes
@@ -10,4 +10,4 @@ ROLES:
 * Jhonatan del Chiaro - Lider Datos 
 * German González - Lider Arquitectura 
 * Jorge Rubiano - Lider FrontEnd 
-* Miguel Olivares
+* Miguel Olivares - Lider Multimedia
